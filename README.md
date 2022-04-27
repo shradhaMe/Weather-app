@@ -4,7 +4,7 @@ This is a Weather App that gives 5 day forecast for the City of Toronto, Canada.
 
 The App shows date, icon, max & min temperature and feels-like temperature for 5 days.
 
-Checkout live link on Netlify:
+Checkout live link on Netlify: https://zingy-puffpuff-43838f.netlify.app/
 
 # Getting Started with Create React App
 
